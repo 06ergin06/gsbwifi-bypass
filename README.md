@@ -18,7 +18,7 @@ Tarayıcının hantal UI render ve SSL handshake süreçlerini aradan çıkaran 
 
 1. Repoyu bilgisayarınıza klonlayın:
    ```bash
-   git clone [https://github.com/denizZz009/gsbwifi-bypass.git](https://github.com/denizZz009/gsbwifi-bypass.git)
+   git clone https://github.com/denizZz009/gsbwifi-bypass.git
    cd gsbwifi-bypass
 2. Gerekli kütüphaneyi yükleyin:
    ```bash
