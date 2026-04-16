@@ -201,7 +201,7 @@ def main_menu():
             input("\nMenüye dönmek için Enter'a bas...")
             
         elif choice == '0':
-            print("\n[!] Çıkış yapılıyor.")
+            print("\n[!] Çıkış yapılıyor. Kendine iyi bak!")
             break
         else:
             print("\n[-] Geçersiz seçim, tekrar dene.")
